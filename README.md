@@ -55,11 +55,25 @@ Free Cloud account имеет ограничения:
 5. В качестве решения задания пришлите скриншот тела сообщения из оповещения на почте.
 6. Дополнительно поэкспериментируйте с правилами алёртинга. Выбирайте разные условия отправки и создавайте sample events. 
 
+<img width="776" alt="Alert post" src="https://github.com/user-attachments/assets/791fb62d-6eee-4486-ac98-1b720fafa94a">
+
 ## Задание повышенной сложности
 
 1. Создайте проект на ЯП Python или GO (около 10–20 строк), подключите к нему sentry SDK и отправьте несколько тестовых событий.
 2. Поэкспериментируйте с различными передаваемыми параметрами, но помните об ограничениях Free учётной записи Cloud Sentry.
 3. В качестве решения задания пришлите скриншот меню issues вашего проекта и пример кода подключения sentry sdk/отсылки событий.
+
+[python-project](https://github.com/sash3939/Monitoring-Sentry/blob/main/python-project.py)
+
+<img width="1164" alt="Python project" src="https://github.com/user-attachments/assets/5e7adbfa-207d-4b88-8469-f81a5e9cc2e4">
+
+<img width="311" alt="Test event" src="https://github.com/user-attachments/assets/90a2534b-6f97-4524-b129-6ff52f025aee">
+
+<img width="471" alt="Test error" src="https://github.com/user-attachments/assets/8e40ca10-efdd-4b5d-8554-7b8e09cdbcd7">
+
+<img width="826" alt="Test-event Post" src="https://github.com/user-attachments/assets/be31b6b5-1228-4b19-89a6-fb7397234e13">
+
+<img width="698" alt="Test-error Post" src="https://github.com/user-attachments/assets/e638912b-1203-4e51-b85a-ba106a926c61">
 
 ---
 
